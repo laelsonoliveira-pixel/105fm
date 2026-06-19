@@ -1,0 +1,156 @@
+{
+"radio": {
+"radio_name": "105 FM",
+"city": "Frutal",
+"state": "MG",
+"country": "Brasil",
+"radio_genre": "1º Lugar no Público Jovem",
+"radio_url": "https://ssl1.transmissaodigital.com:20059/stream",
+"radio_image_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj11H6ZUh8bSr2uleTbe7DIck-quOep1VyTb_Fd1MgCLXRfwCPf6f7jm3NHwQrbtlE6KTMyyf-_rjVyUn8NF0nEx6k3xQWMet_XXnzfL0nU3a1vuDkXBEQsDF63pTZinCkeEJFDF7owXNUlPCvKkRV2X5UVY1xPA1mD2LJ-8UlrAmVHB_-b1Aos4IkqWV8/s400/logo_105.png",
+"website": "https://www.105fmfrutal.com.br",
+"metadata_type": "icy",
+"metadata_url": "",
+"phone_1": "(34) 3423-9191",
+"phone_2": "(34) 3429-0105",
+"whatsapp": "5534998850105",
+"email": "[cultura105fm@terra.com.br](mailto:cultura105fm@terra.com.br)"
+},
+
+"social": {
+"website": "https://www.105fmfrutal.com.br",
+"facebook": "",
+"instagram": "https://www.instagram.com/105fmfrutal",
+"youtube": "",
+"tiktok": "",
+"whatsapp": "https://wa.me/5534998850105"
+},
+
+"app_features": {
+"show_metadata": true,
+"show_album_art": true,
+"show_program_schedule": true,
+"show_presenter": true,
+"show_promotions": true,
+"show_news": true,
+"show_social_links": true,
+"show_whatsapp_button": true,
+"show_request_music_button": true,
+"push_notifications": true
+},
+
+"programacao": {
+"segunda": [
+{
+"programa": "Manhã 105 FM",
+"inicio": "08:00",
+"fim": "11:30",
+"apresentador": "Rodrigo Ferreira",
+"descricao": "Música, informação, entretenimento, atualidades e lançamentos."
+},
+{
+"programa": "Agenda Esportiva",
+"inicio": "11:30",
+"fim": "12:30",
+"apresentador": "Rodrigo Ferreira e Lincoln Biage",
+"descricao": "Principais notícias do dia e destaques do esporte."
+},
+{
+"programa": "Almoçando com Música",
+"inicio": "12:30",
+"fim": "13:00",
+"apresentador": "Programação Digital",
+"descricao": "Os maiores sucessos da MPB."
+},
+{
+"programa": "Tarde 105 FM",
+"inicio": "13:00",
+"fim": "17:00",
+"apresentador": "Cleiton Rafael",
+"descricao": "Música, notícias e participação do ouvinte."
+},
+{
+"programa": "Top Cultura",
+"inicio": "17:00",
+"fim": "18:00",
+"apresentador": "Cleiton Rafael",
+"descricao": "As músicas mais pedidas do dia."
+},
+{
+"programa": "POP",
+"inicio": "18:00",
+"fim": "19:00",
+"apresentador": "",
+"descricao": "As mais executadas do Brasil e do mundo."
+},
+{
+"programa": "Voz do Brasil",
+"inicio": "19:00",
+"fim": "20:00",
+"apresentador": "EBC",
+"descricao": "Informações oficiais do Brasil."
+},
+{
+"programa": "Noite 105 FM",
+"inicio": "20:00",
+"fim": "23:59",
+"apresentador": "Programação Digital",
+"descricao": "Grandes sucessos da música nacional e internacional."
+},
+{
+"programa": "Noite 105 FM",
+"inicio": "00:00",
+"fim": "04:00",
+"apresentador": "Programação Digital",
+"descricao": "Grandes sucessos da música nacional e internacional."
+},
+{
+"programa": "Momento Sertanejo",
+"inicio": "04:00",
+"fim": "08:00",
+"apresentador": "Programação Digital",
+"descricao": "Sertanejo raiz e universitário."
+}
+]
+},
+
+"locutores": [
+{
+"id": 1,
+"nome": "Rodrigo Ferreira",
+"foto": "",
+"instagram": "",
+"facebook": ""
+},
+{
+"id": 2,
+"nome": "Cleiton Rafael",
+"foto": "",
+"instagram": "",
+"facebook": ""
+},
+{
+"id": 3,
+"nome": "Lincoln Biage",
+"foto": "",
+"instagram": "",
+"facebook": ""
+}
+],
+
+"promocoes": [
+{
+"titulo": "Promoção 105 FM",
+"imagem": "",
+"descricao": "",
+"link": ""
+}
+],
+
+"ads": [
+{
+"titulo": "",
+"imagem": "",
+"link": ""
+}
+]
+}
